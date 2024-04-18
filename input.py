@@ -13,8 +13,6 @@ downgrade='ARCNJIO_JIDU6101_D1.9.1'
 
 base_path = rf'C:\Users\ontvi\Downloads\Firmware\idu'
 
-
-
 test_ssid = 'Auto IDU DK'
 test_ssid_password = '123456789'
 plume_build = 0
